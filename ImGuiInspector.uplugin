@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ImGuiInspector",
+	"Description": "Property inspector for ImGui and UnrealEngine",
+	"Category": "Other",
+	"CreatedBy": "Mikołaj Radwan",
+	"CreatedByURL": "https://github.com/mikosz/imgui-unreal-inspector",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ImGuiInspector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
